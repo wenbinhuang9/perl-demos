@@ -1,0 +1,2 @@
+this is input file
+hello perl in input.txt
